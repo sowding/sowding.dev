@@ -39,4 +39,4 @@ This initiative contrasts sharply with the unrecoverable capital drain of active
 
 ---
 
-Recherche assistée par l'intelligence artificielle de Google. Arnold Gehring, MicroGoV llc
+Recherche assistée par l'intelligence artificielle de Google. <br>Arnold Gehring, MicroGoV llc
