@@ -11,7 +11,7 @@ doas printf '#!/bin/sh\ncertbot renew --quiet --deploy-hook "rc-service nginx re
 
 ## 2. Make It Executable & Verify
 
-chmod +x /etc/periodic/daily/certbot-renew
+doas chmod +x /etc/periodic/daily/certbot-renew
 
 cat /etc/periodic/daily/certbot-renew
 
